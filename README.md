@@ -45,3 +45,6 @@ The website has been tested and optimized for the following browsers:
 ## Time Spent on Task
 
 **Total Time:** Approximately 8-10 Hours
+
+
+### **LIVE WORKING LINK:**  `` https://sagar1329.github.io/jai_assignment/index.html``
